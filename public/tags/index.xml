@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Seed Atlas Bioinformatics</title>
+    <link>https://cmart-seq.github.io/seedatlas.github.io/tags/</link>
+    <description>Recent content in Tags on Seed Atlas Bioinformatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cmart-seq.github.io/seedatlas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clustering</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/clustering/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/interactive/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/resources/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single-cell analysis</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/single-cell-analysis/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/single-cell-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10x</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/10x/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/10x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alignment</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/alignment/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cellranger</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/cellranger/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/cellranger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tak</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/tags/tak/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/tags/tak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

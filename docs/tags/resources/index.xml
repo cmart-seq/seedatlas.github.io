@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on Seed Atlas Bioinformatics</title>
+    <link>https://cmart-seq.github.io/seedatlas.github.io/tags/resources/</link>
+    <description>Recent content in resources on Seed Atlas Bioinformatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cmart-seq.github.io/seedatlas.github.io/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smartseq2 Seed Nuclei Playground</title>
+      <link>https://cmart-seq.github.io/seedatlas.github.io/posts/endo_smrt_shiny/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmart-seq.github.io/seedatlas.github.io/posts/endo_smrt_shiny/</guid>
+      <description>Here is an R shiny app for exploring the effects of tuning certain parameters on single cell analysis clustering results. The data is from 1437 seed nuclei from Picard et al 2021.
+Please wait ~30 seconds for the analysis to initialize with default parameters. Scroll to the bottom to view results.
+The analysis will re-run from whatever parameter you change. In general, the more upstream your edit, the longer the analysis will take.</description>
+    </item>
+    
+  </channel>
+</rss>
